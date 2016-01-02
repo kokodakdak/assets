@@ -1,1 +1,2 @@
 # assets
+- lazypic asset files.
